@@ -47,11 +47,6 @@ The system acts as an AI Career Mentor that provides:
 | Component | Technology |
 |-----------|------------|
 | Frontend  | Streamlit |
-| AI Model  | Gemini / OpenAI / LLM |
+| AI Model  | Gemini 2.0|
 | Backend   | Python |
 
-## Setup Instructions
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/ai-career-roadmap.git
-cd ai-career-roadmap
