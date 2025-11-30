@@ -47,6 +47,6 @@ The system acts as an AI Career Mentor that provides:
 | Component | Technology |
 |-----------|------------|
 | Frontend  | Streamlit |
-| AI Model  | Gemini 2.0|
+| AI Model  | Gemini 2.5 Flash|
 | Backend   | Python |
 
