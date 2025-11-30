@@ -50,12 +50,6 @@ The system acts as an AI Career Mentor that provides:
 | AI Model  | Gemini / OpenAI / LLM |
 | Backend   | Python |
 
-## App Preview
-Add screenshots of your app here:
-
-![Landing Page](assets/screenshot1.png)
-![Roadmap Output](assets/screenshot2.png)
-
 ## Setup Instructions
 1. Clone the repository:
 ```bash
